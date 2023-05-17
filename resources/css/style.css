@@ -1,2 +1,33 @@
+html {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
 
+body {
+    margin: 0;
+    background-color: black;
+    color: white;
+}
 
+h1 {
+    font-size: 3.125rem;
+}
+
+h2 {
+    font-size: 2.625rem;
+    font-weight: 300;
+}
+
+a {
+    color:aquamarine;
+}
+
+p {
+    font-size: 1,3125rem;
+    color: grey;
+}
+
+footer {
+    text-align: right;
+    width: 98vw;
+}
